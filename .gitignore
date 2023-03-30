@@ -97,3 +97,5 @@ public/
 
 # Express Typescript
 # End of https://www.gitignore.io/api/node
+
+.env
